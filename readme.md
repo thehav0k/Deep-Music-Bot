@@ -28,7 +28,7 @@ A Discord music and AI chatbot built with Python. Play music from YouTube, manag
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/Deep-Music-Bot.git
+   git clone https://github.com/thehav0k/Deep-Music-Bot.git
    cd Deep-Music-Bot
    ```
 
